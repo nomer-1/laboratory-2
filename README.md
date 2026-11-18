@@ -115,3 +115,8 @@ me.my_email — електронна адреса.
 
 
 type() — визначає тип об'єкта або методу.
+
+
+
+
+<img width="1005" height="987" alt="image" src="https://github.com/user-attachments/assets/2c045315-2325-49ad-9a3b-4bcf5ebe1580" />
